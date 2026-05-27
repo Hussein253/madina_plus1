@@ -27,3 +27,5 @@ python 06_dashboard.py
 - نموذج AI لتقييم العقارات
 - خريطة خطر الفيضانات
 - تنبؤ استهلاك الطاقة
+# madina_plus1
+Baghdad urban Intelligence
